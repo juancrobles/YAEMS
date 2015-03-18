@@ -214,7 +214,8 @@
             },
             "license": [
                 "MIT"
-            ]
+            ],
+            "time": "2015-03-08 21:03:11"
         },
         {
             "name": "cebe/markdown",
@@ -638,12 +639,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "5f91d63d78036ee445601ce0c606cdceb0be55d2"
+                "reference": "d0a878177e75d4c9bea4b63101784deeb7181008"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/5f91d63d78036ee445601ce0c606cdceb0be55d2",
-                "reference": "5f91d63d78036ee445601ce0c606cdceb0be55d2",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/d0a878177e75d4c9bea4b63101784deeb7181008",
+                "reference": "d0a878177e75d4c9bea4b63101784deeb7181008",
                 "shasum": ""
             },
             "require": {
@@ -682,7 +683,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2015-03-11 13:17:18"
+            "time": "2015-03-17 07:40:47"
         },
         {
             "name": "phpspec/php-diff",
